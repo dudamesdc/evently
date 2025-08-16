@@ -34,7 +34,7 @@ Evently is a production-ready Django project that serves as a complete **Event M
 - Custom list filters, actions, and read-only fields  
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Python 3.12+**, **Django 5.x**  
 - **MySQL 8** (or SQLite for dev), **Redis** (Celery broker)  
 - **Django Admin**, **Django Forms**, **Messages framework**  
