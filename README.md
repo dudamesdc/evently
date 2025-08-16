@@ -78,12 +78,6 @@ Evently is a production-ready Django project that serves as a complete **Event M
 
 ---
 
-## API (Optional DRF Layer)
-- `GET /api/events/` – list events  
-- `GET /api/events/{slug}/` – event detail  
-- `POST /api/events/{slug}/register/` – create registration  
-- `GET /api/me/registrations/` – current user’s registrations  
-
 ---
 
 ##  Getting Started
