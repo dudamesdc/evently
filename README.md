@@ -87,7 +87,7 @@ Evently is a production-ready Django project that serves as a complete **Event M
 
 ### Quickstart (SQLite)
 ```bash
-git clone https://github.com/dudamesdc/evently.git
+git clone https://github.com/dudamesdc/evently-django.git
 cd evently-django
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
